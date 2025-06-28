@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "VocalMind",
+  "version": "1.1",
+  "description": "Reads selected text aloud with female voice and adjustable controls.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
